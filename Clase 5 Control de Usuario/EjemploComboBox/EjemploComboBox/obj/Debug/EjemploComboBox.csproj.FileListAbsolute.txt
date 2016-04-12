@@ -1,0 +1,27 @@
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.exe.config
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.exe
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.pdb
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csprojResolveAssemblyReference.cache
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.frmPrincipal.resources
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.Properties.Resources.resources
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csproj.GenerateResource.Cache
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.exe
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.pdb
+E:\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.exe.config
+E:\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.exe
+E:\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.pdb
+E:\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.exe
+E:\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.pdb
+E:\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csprojResolveAssemblyReference.cache
+E:\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.frmPrincipal.resources
+E:\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.Properties.Resources.resources
+E:\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.exe.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.frmPrincipal.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csproj.GenerateResource.Cache
