@@ -1,0 +1,9 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion4\bin\Debug\Aplicacion4.exe.config
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion4\bin\Debug\Aplicacion4.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion4\bin\Debug\Aplicacion4.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion4\obj\Debug\Aplicacion4.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion4\obj\Debug\Aplicacion4.frmOrdenamiento.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion4\obj\Debug\Aplicacion4.Properties.Resources.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion4\obj\Debug\Aplicacion4.csproj.GenerateResource.Cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion4\obj\Debug\Aplicacion4.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion4\obj\Debug\Aplicacion4.pdb
